@@ -1,0 +1,18 @@
+{
+  "name": "flwrs_gh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node .",
+    "save": "node ./src/save.js",
+    "analyze": "node ./src/check.js"
+  },
+  "keywords": [],
+  "author": "Mateus Nunes",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "dotenv": "^16.0.0"
+  }
+}

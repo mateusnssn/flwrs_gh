@@ -1,0 +1,1 @@
+console.error(`\nyou need to specify what you want to do, try running "npm run save"\n\n`);
